@@ -32,3 +32,4 @@ class DataFetcher:
             print(data)
         else:
             print("Failed to fetch data (POST). Status code:", response.status_code)
+
